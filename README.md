@@ -1,1 +1,1 @@
-#http:// okhunjon.github.io
+#http://okhunjon.github.io
